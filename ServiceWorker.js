@@ -1,9 +1,9 @@
 const cacheName = "Freak Games-Zombie: Collective Defence-0.0.0";
 const contentToCache = [
-    "Build/web.loader.js",
-    "Build/web.framework.js",
-    "Build/web.data",
-    "Build/web.wasm",
+    "Build/test.loader.js",
+    "Build/test.framework.js",
+    "Build/test.data",
+    "Build/test.wasm",
     "TemplateData/style.css"
 
 ];
